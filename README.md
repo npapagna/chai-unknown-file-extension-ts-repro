@@ -1,0 +1,1 @@
+# chai-unknown-file-extension-ts-repro
